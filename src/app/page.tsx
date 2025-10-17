@@ -15,7 +15,7 @@ export default function Home() {
       <div>
         <h2  className="text-lg font-bold">Desturing Object</h2>
         <pre>{object}</pre>
-        <p>nameProduct = "kulkas"</p>
+        <p>nameProduct = &quot;kulkas&quot;</p>
         <p>price = 1.000.000</p>
         <p>console.log = {nameProduct}</p>
         <p>console.log = {price}</p>
